@@ -171,18 +171,18 @@ body {
 }
 
 
+
 /*===================================================
                        Our Project
 ======================================================*/
 
 
 .project-title span {
-    font-size: 20px;
-    line-height: 47px;
-    color: #171717;
+    font-size: 18px;
+    line-height: 30px;
+    color: #535353;
     font-family: "Poppins";
-    font-weight: 500;
-    text-align: left;
+    font-weight: 600;
 }
 
 .project-description {
