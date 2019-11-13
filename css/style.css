@@ -25,6 +25,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+
 }
 
 #home-content-box {
@@ -159,7 +160,7 @@ body {
 }
 
 .img-container {
-    width: 30rem;
+    width: 100%;
     border: 1px solid #f5f5f5;
 }
 
@@ -194,3 +195,31 @@ body {
     font-family: "Open Sans";
     font-weight: 400;
 }
+
+/*===================================================
+                       Navbar
+======================================================*/
+.header {
+    position: absolute;
+    right: 0;
+}
+
+.header .collapse {
+    transition: all 1s ease;
+}
+
+.image-container {
+    position: absolute;
+    left: 0;
+}
+
+.image-container img {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+/*===================================================
+                       Footer
+======================================================*/
+
+#footer {}
